@@ -1,2 +1,2 @@
 # portfolio.github.io
-This a website containing my portfolio and a downloadable pdf of my resume.
+This is a website containing my portfolio and a downloadable PDF of my resume.
